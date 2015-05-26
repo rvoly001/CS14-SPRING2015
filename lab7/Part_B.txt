@@ -1,0 +1,8 @@
+// CS 14 Lab
+// Lab Number 7
+// Name: Robinson Vo-Ly
+// SID: 861166275
+// Date: 5/25/2015
+From the graphs, we can see that hash inserting takes much less time than tree inserting with increasing data sizes.
+Hash look-up also takes up less time then tree look-up.
+Therefore, the use of hash tables is more efficient than trees.
